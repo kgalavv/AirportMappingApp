@@ -1,0 +1,110 @@
+Source,Target,Distance(km)
+Baltimore/Washington International Thurgood Marshall Airport,Detroit Metropolitan Airport,648
+Baltimore/Washington International Thurgood Marshall Airport,Orlando International Airport,1268
+Baltimore/Washington International Thurgood Marshall Airport,St. Louis Lambert International Airport,1178
+Baltimore/Washington International Thurgood Marshall Airport,Salt Lake City International Airport,2979
+Baltimore/Washington International Thurgood Marshall Airport,John F. Kennedy International Airport,300
+Charlotte Douglas International Airport,Newark Liberty International Airport,849
+Charlotte Douglas International Airport,John F. Kennedy International Airport,862
+Charlotte Douglas International Airport,Hartsfield Jackson Atlanta International Airport,374
+Charlotte Douglas International Airport,Orlando International Airport,764
+Charlotte Douglas International Airport,Dallas Fort Worth International Airport,1516
+Dallas Fort Worth International Airport,Charlotte Douglas International Airport,1516
+Dallas Fort Worth International Airport,Hartsfield Jackson Atlanta International Airport,1169
+Dallas Fort Worth International Airport,Denver International Airport,1030
+Dallas Fort Worth International Airport,Phoenix Sky Harbor International Airport,1384
+Dallas Fort Worth International Airport,George Bush Intercontinental Airport,383
+Daniel K. Inouye International Airport,San Francisco International Airport,3820
+Daniel K. Inouye International Airport,Los Angeles International Airport,4065
+Daniel K. Inouye International Airport,San Diego International Airport,4183
+Denver International Airport,Dallas Fort Worth International Airport,1030
+Denver International Airport,Salt Lake City International Airport,624
+Denver International Airport,Phoenix Sky Harbor International Airport,971
+Denver International Airport,Minneapolis-Saint Paul International Airport,1104
+Detroit Metropolitan Airport,Newark Liberty International Airport,782
+Detroit Metropolitan Airport,Minneapolis-Saint Paul International Airport,855
+Detroit Metropolitan Airport,O'Hare International Airport,375
+Detroit Metropolitan Airport,St. Louis Lambert International Airport,706
+Detroit Metropolitan Airport,Baltimore/Washington International Thurgood Marshall Airport,648
+Detroit Metropolitan Airport,Orlando International Airport,1530
+Fort Lauderdale-Hollywood International Airport,Orlando International Airport,276
+Fort Lauderdale-Hollywood International Airport,Baltimore/Washington International Thurgood Marshall Airport,1489
+Fort Lauderdale-Hollywood International Airport,Detroit Metropolitan Airport,1810
+Fort Lauderdale-Hollywood International Airport,George Bush Intercontinental Airport,1546
+George Bush Intercontinental Airport,Phoenix Sky Harbor International Airport,1630
+George Bush Intercontinental Airport,St. Louis Lambert International Airport,1089
+George Bush Intercontinental Airport,Tampa International Airport,1258
+Hartsfield Jackson Atlanta International Airport,Charlotte Douglas International Airport,374
+Hartsfield Jackson Atlanta International Airport,Dallas Fort Worth International Airport,1169
+Hartsfield Jackson Atlanta International Airport,Miami International Airport,943
+Hartsfield Jackson Atlanta International Airport,O'Hare International Airport,983
+John F. Kennedy International Airport,Baltimore/Washington International Thurgood Marshall Airport,300
+John F. Kennedy International Airport,Philadelphia International Airport,150
+John F. Kennedy International Airport,Newark Liberty International Airport,35
+John F. Kennedy International Airport,Detroit Metropolitan Airport,816
+John F. Kennedy International Airport,Charlotte Douglas International Airport,862
+Los Angeles International Airport,San Francisco International Airport,524
+Los Angeles International Airport,Daniel K. Inouye International Airport,4065
+Los Angeles International Airport,McCarran International Airport,348
+Los Angeles International Airport,Phoenix Sky Harbor International Airport,609
+McCarran International Airport,Los Angeles International Airport,348
+McCarran International Airport,Phoenix Sky Harbor International Airport,417
+McCarran International Airport,Salt Lake City International Airport,595
+McCarran International Airport,Seattle-Tacoma International Airport,1394
+Miami International Airport,Tampa International Airport,328
+Miami International Airport,Hartsfield Jackson Atlanta International Airport,943
+Miami International Airport,Orlando International Airport,306
+Miami International Airport,George Bush Intercontinental Airport,1543
+Minneapolis-Saint Paul International Airport,Seattle-Tacoma International Airport,2241
+Minneapolis-Saint Paul International Airport,Salt Lake City International Airport,1584
+Minneapolis-Saint Paul International Airport,O'Hare International Airport,531
+Minneapolis-Saint Paul International Airport,St. Louis Lambert International Airport,712
+Minneapolis-Saint Paul International Airport,Detroit Metropolitan Airport,855
+Newark Liberty International Airport,Detroit Metropolitan Airport,782
+Newark Liberty International Airport,John F. Kennedy International Airport,35
+Newark Liberty International Airport,Philadelphia International Airport,129
+Newark Liberty International Airport,Charlotte Douglas International Airport,849
+O'Hare International Airport,Hartsfield Jackson Atlanta International Airport,983
+O'Hare International Airport,St. Louis Lambert International Airport,422
+O'Hare International Airport,Detroit Metropolitan Airport,375
+O'Hare International Airport,Minneapolis-Saint Paul International Airport,531
+Orlando International Airport,Charlotte Douglas International Airport,764
+Orlando International Airport,Detroit Metropolitan Airport,1530
+Orlando International Airport,Miami International Airport,306
+Orlando International Airport,Baltimore/Washington International Thurgood Marshall Airport,1268
+Orlando International Airport,Fort Lauderdale-Hollywood International Airport,276
+Philadelphia International Airport,John F. Kennedy International Airport,150
+Philadelphia International Airport,Minneapolis-Saint Paul International Airport,1565
+Philadelphia International Airport,St. Louis Lambert International Airport,1308
+Philadelphia International Airport,Tampa International Airport,1485
+Philadelphia International Airport,Detroit Metropolitan Airport,727
+Phoenix Sky Harbor International Airport,Los Angeles International Airport,609
+Phoenix Sky Harbor International Airport,McCarran International Airport,417
+Phoenix Sky Harbor International Airport,Salt Lake City International Airport,818
+Phoenix Sky Harbor International Airport,George Bush Intercontinental Airport,1630
+Salt Lake City International Airport,Seattle-Tacoma International Airport,1099
+Salt Lake City International Airport,Denver International Airport,624
+Salt Lake City International Airport,Minneapolis-Saint Paul International Airport,1584
+Salt Lake City International Airport,San Francisco International Airport,952
+Salt Lake City International Airport,McCarran International Airport,595
+San Diego International Airport,Phoenix Sky Harbor International Airport,492
+San Diego International Airport,San Francisco International Airport,721
+San Diego International Airport,George Bush Intercontinental Airport,2089
+San Diego International Airport,Daniel K. Inouye International Airport,4183
+San Francisco International Airport,Daniel K. Inouye International Airport,3820
+San Francisco International Airport,San Diego International Airport,721
+San Francisco International Airport,Seattle-Tacoma International Airport,1096
+San Francisco International Airport,Salt Lake City International Airport,952
+Seattle-Tacoma International Airport,McCarran International Airport,1394
+Seattle-Tacoma International Airport,San Francisco International Airport,1096
+Seattle-Tacoma International Airport,Salt Lake City International Airport,1099
+Seattle-Tacoma International Airport,Minneapolis-Saint Paul International Airport,2241
+St. Louis Lambert International Airport,George Bush Intercontinental Airport,1089
+St. Louis Lambert International Airport,O'Hare International Airport,422
+St. Louis Lambert International Airport,Tampa International Airport,1398
+St. Louis Lambert International Airport,Minneapolis-Saint Paul International Airport,712
+St. Louis Lambert International Airport,Detroit Metropolitan Airport,706
+Tampa International Airport,George Bush Intercontinental Airport,1258
+Tampa International Airport,St. Louis Lambert International Airport,1398
+Tampa International Airport,Miami International Airport,328
+Tampa International Airport,Fort Lauderdale-Hollywood International Airport,193
